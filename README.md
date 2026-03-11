@@ -9,7 +9,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Email](https://img.shields.io/badge/EMAIL-leeboy0501%40gmail.com-00ffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:boyi.li0501@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-boyi.li0501%40gmail.com-00ffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:boyi.li0501@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-Leeboy0-ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Leeboy0)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-leeboy0.github.io-00ffff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://leeboy0.github.io)
 
