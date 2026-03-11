@@ -25,9 +25,8 @@ module Boyi_LiVera (
   output reg  [7:0] career     // Targeting DV / RTL / HW Engineering
 );
   // Currently seeking Summer 2026 internships
-  // Focus: Design Verification · RTL Design · Hardware Engineering
-  // Past: Panasonic Avionics — Hardware Engineering Intern
-  assign career = 8'hEC;       // 0xEC = Engineering Career
+  // Focus: Design Verification · RTL Design · Hardware&Software Engineering
+  assign career = 8'hEC;       // 0xEC = Engineering Career -- netrunner? 
 endmodule
 ```
 
@@ -140,6 +139,6 @@ KR260 Platform
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:0d0d0d&height=120&section=footer" />
 
-*"Design it right at the RTL — everything downstream follows."*
+*"Memory not found at 0x7CF, check the Blackwall"*
 
 </div>
