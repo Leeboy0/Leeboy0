@@ -142,3 +142,7 @@ KR260 Platform
 *"Memory not found at 0x7CF, check the Blackwall"*
 
 </div>
+
+## ◈ NEW PROJECT CONCEPT
+
+- **Asian Budget Meal Planner**: Product blueprint for an immigrant-focused meal planning web app that balances authentic Asian meals, budget control, and nearby supermarket sourcing. See `asian-meal-planner-spec.md`.
